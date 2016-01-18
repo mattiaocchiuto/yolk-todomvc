@@ -2,6 +2,13 @@
 
 > A library for building asynchronous user interfaces.
 
+### Usage
+
+```
+npm install
+npm start
+Open the index.html file
+```
 
 ## Resources
 
